@@ -77,7 +77,7 @@
       "url_img": "https://repettosport.com/5108-tm_thickbox_default/deuter-aircontact-6010-sl.jpg",
       "title": "nome carro economico",
       "localizacao":"São Paulo",
-      "categories": 1,
+      "categoryId": 1,
       "descricao": "Cat ipsum dolor sit amet, curl into a furry donut eat the fat cats food yet eat the rubberband. What the heck just happened, something feels fishy massacre a bird in the living room and then look like the cutest and most innocent animal"     
     },
      {
@@ -86,7 +86,7 @@
        "url_img": "https://repettosport.com/5108-tm_thickbox_default/deuter-aircontact-6010-sl.jpg",
        "title": "nome carro compacto",
        "localizacao":"São Paulo",
-       "categories": 2,
+       "categoryId": 2,
        "descricao": "Cat ipsum dolor sit amet, curl into a furry donut eat the fat cats food yet eat the rubberband. What the heck just happened, something feels fishy massacre a bird in the living room and then look like the cutest and most innocent animalRefatoração do vuex 4" 
     },
      {
@@ -94,7 +94,7 @@
        "url_imagem":"https://www.boaec.com.br/wp-content/uploads/2021/02/Uber-Comfort-1.jpg",
        "title": "nome carro confort",
        "localizacao":"Belo Horizonte",
-       "categories": 3,
+       "categoryId": 3,
        "descricao": "Cat ipsum dolor sit amet, curl into a furry donut eat the fat cats food yet eat the rubberband. What the heck just happened, something feels fishy massacre a bird in the living room and then look like the cutest and most innocent animalRefatoração do vuex 4" 
     }
   ]
