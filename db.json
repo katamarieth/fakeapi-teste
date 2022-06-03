@@ -61,13 +61,27 @@
       "url_imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/2021_Toyota_Sienna_XLE_Hybrid%2C_front_12.21.21.jpg/1024px-2021_Toyota_Sienna_XLE_Hybrid%2C_front_12.21.21.jpg"
     }
   ],
+  "citys": [
+    {
+    "id": 1,
+    "name": "São Paulo"
+    },
+     {
+    "id": 2,
+    "name": "Rio de Raneiro"
+    },
+     {
+    "id": 3,
+    "name": "Belo Horizonte"
+    }
+  ],
   "products": [
     {
       "id": 1,
       "url_imagem": "https://image1.mobiauto.com.br/images/api/images/v1.0/url/transform/cw_720?hash=21657ef9ee519ad11bfc0d480e4b9cefc37a5cc7469f695aa4b6e2bdb81d992d01df41a36366c687b4c5ff3e28ae03383299dba0a2616c3c1a5acf5beb1cac3e&url=https%3A%2F%2Fs3-sa-east-1.amazonaws.com%2Frevista.mobiauto%2FImagensSUVs%2F5%2BCarros%2Bmais%2Beconomicos%2Bdo%2BBrasil%2F5-Carros-mais-economicos-Peugeot-208.jpg",
       "url_img": "https://repettosport.com/5108-tm_thickbox_default/deuter-aircontact-6010-sl.jpg",
       "title": "nome carro economico",
-      "localizacao":"São Paulo",
+      "cityId":1,
       "categoryId": 1,
       "descricao": "Cat ipsum dolor sit amet, curl into a furry donut eat the fat cats food yet eat the rubberband. What the heck just happened, something feels fishy massacre a bird in the living room and then look like the cutest and most innocent animal"     
     },
@@ -76,7 +90,7 @@
       "url_imagem": "https://image1.mobiauto.com.br/images/api/images/v1.0/url/transform/cw_720?hash=21657ef9ee519ad11bfc0d480e4b9cefc37a5cc7469f695aa4b6e2bdb81d992d01df41a36366c687b4c5ff3e28ae03383299dba0a2616c3c1a5acf5beb1cac3e&url=https%3A%2F%2Fs3-sa-east-1.amazonaws.com%2Frevista.mobiauto%2FImagensSUVs%2F5%2BCarros%2Bmais%2Beconomicos%2Bdo%2BBrasil%2F5-Carros-mais-economicos-Peugeot-208.jpg",
       "url_img": "https://repettosport.com/5108-tm_thickbox_default/deuter-aircontact-6010-sl.jpg",
       "title": "nome carro economico",
-      "localizacao":"São Paulo",
+      "cityId":1,
       "categoryId": 1,
       "descricao": "Cat ipsum dolor sit amet, curl into a furry donut eat the fat cats food yet eat the rubberband. What the heck just happened, something feels fishy massacre a bird in the living room and then look like the cutest and most innocent animal"     
     },
@@ -85,7 +99,7 @@
        "url_imagem":"https://wp-midia-nova.bidu.com.br/uploads/2018/04/04202336/carros-pequenos.jpg",
        "url_img": "https://repettosport.com/5108-tm_thickbox_default/deuter-aircontact-6010-sl.jpg",
        "title": "nome carro compacto",
-       "localizacao":"São Paulo",
+       "cityId":2,
        "categoryId": 2,
        "descricao": "Cat ipsum dolor sit amet, curl into a furry donut eat the fat cats food yet eat the rubberband. What the heck just happened, something feels fishy massacre a bird in the living room and then look like the cutest and most innocent animalRefatoração do vuex 4" 
     },
@@ -93,7 +107,7 @@
       "id": 4,
        "url_imagem":"https://www.boaec.com.br/wp-content/uploads/2021/02/Uber-Comfort-1.jpg",
        "title": "nome carro confort",
-       "localizacao":"Belo Horizonte",
+       "cityId":3,
        "categoryId": 3,
        "descricao": "Cat ipsum dolor sit amet, curl into a furry donut eat the fat cats food yet eat the rubberband. What the heck just happened, something feels fishy massacre a bird in the living room and then look like the cutest and most innocent animalRefatoração do vuex 4" 
     }
