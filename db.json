@@ -64,15 +64,15 @@
   "citys": [
     {
     "id": 1,
-    "name": "São Paulo"
+    "nome": "São Paulo"
     },
      {
     "id": 2,
-    "name": "Rio de Raneiro"
+    "nome": "Rio de Raneiro"
     },
      {
     "id": 3,
-    "name": "Belo Horizonte"
+    "nome": "Belo Horizonte"
     }
   ],
   "products": [
