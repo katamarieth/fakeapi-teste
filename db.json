@@ -75,6 +75,20 @@
     "nome": "Belo Horizonte"
     }
   ],
+  "ys": [
+    {
+    "id": 1,
+    "nome": "São Paulo"
+    },
+     {
+    "id": 2,
+    "nome": "Rio de Raneiro"
+    },
+     {
+    "id": 3,
+    "nome": "Belo Horizonte"
+    }
+  ],  
   "products": [
     {
       "id": 1,
