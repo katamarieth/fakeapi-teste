@@ -111,19 +111,5 @@
        "categoryId": 3,
        "descricao": "Cat ipsum dolor sit amet, curl into a furry donut eat the fat cats food yet eat the rubberband. What the heck just happened, something feels fishy massacre a bird in the living room and then look like the cutest and most innocent animalRefatoração do vuex 4" 
     }
-  ],
-  "xhits": [
-    {
-    "id": 1,
-    "nome": "São Paulo"
-    },
-     {
-    "id": 2,
-    "nome": "Rio de Raneiro"
-    },
-     {
-    "id": 3,
-    "nome": "Belo Horizonte"
-    }
   ]
 }
