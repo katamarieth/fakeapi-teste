@@ -75,18 +75,18 @@
     "nome": "Belo Horizonte"
     }
   ],
-  "ys": [
+  "states": [
     {
     "id": 1,
-    "nome": "São Paulo"
+    "nome": "SP"
     },
      {
     "id": 2,
-    "nome": "Rio de Raneiro"
+    "nome": "RJ"
     },
      {
     "id": 3,
-    "nome": "Belo Horizonte"
+    "nome": "MG"
     }
   ],  
   "products": [
