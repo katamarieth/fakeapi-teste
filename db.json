@@ -61,7 +61,7 @@
       "url_imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/2021_Toyota_Sienna_XLE_Hybrid%2C_front_12.21.21.jpg/1024px-2021_Toyota_Sienna_XLE_Hybrid%2C_front_12.21.21.jpg"
     }
   ],
-  "citys": [
+  "cities": [
     {
     "id": 1,
     "nome": "São Paulo"
