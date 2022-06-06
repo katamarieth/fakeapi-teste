@@ -102,7 +102,7 @@
       "cityId":1,
       "categoryId": 1,
       "qualificacao": "Econômico",
-      "descricao": "Cat ipsum dolor sit amet, curl into a furry donut eat the fat cats food yet eat the rubberband. What the heck just happened, something feels fishy massacre a bird in the living room and then look like the cutest and most innocent animal"     
+      "descricao": "Cat ipsum dolor sit amet, curl into a furry donut eat the fat cats food yet eat the rubberband."     
     },
     {
       "id": 2,
@@ -112,7 +112,7 @@
       "cityId":1,
       "categoryId": 1,
       "qualificacao": "Econômico",
-      "descricao": "Cat ipsum dolor sit amet, curl into a furry donut eat the fat cats food yet eat the rubberband. What the heck just happened, something feels fishy massacre a bird in the living room and then look like the cutest and most innocent animal"     
+      "descricao": "Cat ipsum dolor sit amet, curl into a furry donut eat the fat cats food yet eat the rubberband."
     },
      {
       "id": 3,
@@ -122,7 +122,7 @@
        "cityId":2,
        "categoryId": 2,
        "qualificacao": "Compacto",
-       "descricao": "Cat ipsum dolor sit amet, curl into a furry donut eat the fat cats food yet eat the rubberband. What the heck just happened, something feels fishy massacre a bird in the living room and then look like the cutest and most innocent animalRefatoração do vuex 4" 
+       "descricao": "Cat ipsum dolor sit amet, curl into a furry donut eat the fat cats food yet eat the rubberband."
     },
      {
       "id": 4,
@@ -131,7 +131,7 @@
        "cityId":3,
        "categoryId": 3,
        "qualificacao": "Confort",
-       "descricao": "Cat ipsum dolor sit amet, curl into a furry donut eat the fat cats food yet eat the rubberband. What the heck just happened, something feels fishy massacre a bird in the living room and then look like the cutest and most innocent animalRefatoração do vuex 4" 
+       "descricao": "Cat ipsum dolor sit amet, curl into a furry donut eat the fat cats food yet eat the rubberband."
     }
   ]
 }
