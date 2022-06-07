@@ -78,7 +78,7 @@
   "productDetails": [
     {
       "id": 1,
-      "icon_url1": "https://cdn-icons-png.flaticon.com/512/31/31307.png?w=826&t=st=1654304021~exp=1654304621~hmac=72bd496f697f42d72f73f597857f5d4f86dc73889966ea50dcbca3d64ceefe4e",
+      "icon_url": "https://cdn-icons-png.flaticon.com/512/31/31307.png?w=826&t=st=1654304021~exp=1654304621~hmac=72bd496f697f42d72f73f597857f5d4f86dc73889966ea50dcbca3d64ceefe4e",
       "characteristic": "ABS"
     },
     {
