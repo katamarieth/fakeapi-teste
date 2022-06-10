@@ -141,10 +141,10 @@
   "users": [
       {
       "id": 1,
-      "name": "Patricia",
+      "name": "patricia",
       "last_name": "Pereira",
       "email": "patricia@gmail.com",
-      "password": "Secret"
+      "password": "secret"
     }
   ]  
 }
