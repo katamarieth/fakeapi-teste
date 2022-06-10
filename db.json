@@ -138,4 +138,13 @@
        "descricao": "Cat ipsum dolor sit amet, curl into a furry donut eat the fat cats food yet eat the rubberband."
     }
   ]
+  "users": [
+      {
+      "id": 1,
+      "name": "Patricia",
+      "last_name": "Pereira",
+      "email": "patricia@gmail.com",
+      "password": "Secret"
+    }
+  ]  
 }
