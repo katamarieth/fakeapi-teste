@@ -106,7 +106,10 @@
       "cityId":1,
       "categoryId": 1,
       "qualificacao": "Econômico",
-      "descricao": "Cat ipsum dolor sit amet, curl into a furry donut eat the fat cats food yet eat the rubberband."     
+      "descricao": "Cat ipsum dolor sit amet, curl into a furry donut eat the fat cats food yet eat the rubberband.",
+      "data_inicial":"06-22-2022",
+      "data_final":"07-01-2022"
+      
     },
     {
       "id": 2,
